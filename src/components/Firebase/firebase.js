@@ -7,12 +7,12 @@ import {
 } from "firebase/auth";
 
 const config = {
-  apiKey: "AIzaSyD7VM4bYhDmaRi0BBdFIRBl-5fuVhkMBqM",
-  authDomain: "fir-react-demo-c89c6.firebaseapp.com",
-  projectId: "fir-react-demo-c89c6",
-  storageBucket: "fir-react-demo-c89c6.appspot.com",
-  messagingSenderId: "787622352364",
-  appId: "1:787622352364:web:dd880369a6ea2ab3aa5cc9",
+  apiKey: "REPLACE_APIKEY",
+  authDomain: "REPLACE_AUTHDOMAIN",
+  projectId: "REPLACE_PROJECTID",
+  storageBucket: "REPLACE_STORAGEBUCKET",
+  messagingSenderId: "REPLACE_MESSAGINGSENDERID",
+  appId: "REPLACE_APIID",
 };
 
 class Firebase {
